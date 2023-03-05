@@ -5,5 +5,5 @@
 para rodar esse projeto precisa dos seguintes passos:
 
 ´´´
-npn  install react
-´´´
+node app.js
+´´´´
